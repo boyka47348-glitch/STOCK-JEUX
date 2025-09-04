@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "1620730",
+    "name": "Hell is Us",
+    "header_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1620730/header.jpg",
+    "short_description": "",
+    "isUpdated": false,
+    "isOnline": false,
+    "isNew": false,
+    "draft": false
+  }
+]
